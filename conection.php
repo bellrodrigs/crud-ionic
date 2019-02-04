@@ -4,10 +4,10 @@ define('DB_USER', 'root');
 define('DB_PASSWORD','');
 define('DB_HOST','localhost');*/
 
-define('DB_NAME', 'id6302249_agenda1');
-define('DB_USER', 'id6302249_bellrodrigs');
-define('DB_PASSWORD','12345');
-define('DB_HOST','localhost');
+define('DB_NAME', 'sql10277402');
+define('DB_USER', 'sql10277402');
+define('DB_PASSWORD','DAZfCjCn7X');
+define('DB_HOST','sql10.freemysqlhosting.net');
 
 $mysqli = new mysqli(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME);
 
